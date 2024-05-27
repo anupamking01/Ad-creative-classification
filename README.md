@@ -25,7 +25,7 @@ I tackled these challenges by:
 
 ROC curves on the test data:
 
-![alt text](https://github.com/anupamking01/Ad-creative-classification/ROC_Best.png "AUC ROC on Test Data of Best Models")
+![alt text](https://github.com/anupamking01/Ad-creative-classification/blob/main/ROC_Best.png "AUC ROC on Test Data of Best Models")
 
 The above strategies resulted in highly predictive models. The best iteration of each model explored had an AUC ROC of 0.95 or greater. The best model was the logistic classifier with a 1:1 class weight, the feature variance threshold set to drop only zero variance features, and no sampling-based class imbalance corrections. 
 
