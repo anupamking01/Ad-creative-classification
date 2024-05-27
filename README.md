@@ -44,8 +44,3 @@ Features 1, 2, & 5 seem to be ad attributes and 3 & 4 seem to be the url of the 
 Many more model training approaches were left off of the table. For example, only L2 (ridge) regularization was used for the logistic classifier and SVM were not used (to save time on first iteration of training). However, since the first iteration of training yielded models with an AUC ROC of 0.99, further refinement of the model training process seemed unnecessary.
 
 
-jimmy.charite@gmail.com
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jcharit1/Identifying-Ad-Images/blob/master/License.md) file for details
